@@ -30,9 +30,6 @@ Hi! I’m **Lokesh Ramireddy**, an Electronics and Communication Engineering stu
 4. **IoT Weather Monitoring System**  
    ➤ Automates irrigation using environmental sensor data.
 
-5. **Python Hackathon Project**  
-   ➤ Built a real-time problem solver prototype in a 24hr challenge.
-
 ---
 
 ## 📬 Contact Me
