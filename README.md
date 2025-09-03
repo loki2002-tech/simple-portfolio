@@ -1,6 +1,3 @@
-
----
-
 ## 🧑‍💻 About Me
 
 Hi! I’m **Lokesh Ramireddy**, an Electronics and Communication Engineering student at SRM University. I specialize in building IoT-based systems, working with embedded platforms, and developing full-stack web applications. This site highlights my journey, skills, and projects.
