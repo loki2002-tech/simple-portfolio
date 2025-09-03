@@ -34,12 +34,9 @@ Hi! I’m **Lokesh Ramireddy**, an Electronics and Communication Engineering stu
 
 ## 📬 Contact Me
 
-- 📧 Email: lokesh.r@example.com
-- 🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: lokeshreddy8374@gmail.com
+- 🔗 GitHub: [github.com/yourusername](https://github.com/loki2002-tech)
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/lokesh-ramireddy-21b102287)
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
