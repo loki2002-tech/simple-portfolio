@@ -4,6 +4,10 @@ Hi! I’m **Lokesh Ramireddy**, an Electronics and Communication Engineering stu
 
 ---
 
+
+preview 
+https://loki2002-tech.github.io/simple-portfolio/
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
